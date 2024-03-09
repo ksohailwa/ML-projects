@@ -1,4 +1,3 @@
-Here's a README.md file for your Multiple Linear Regression project:
 
 ```markdown
 # Multiple Linear Regression Model
@@ -56,9 +55,6 @@ Make sure to install the dependencies using pip:
 pip install numpy matplotlib pandas scikit-learn
 ```
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
-Replace `<repository_URL>` and `<repository_name>` with your actual repository URL and name. Also, ensure that the `requirements.txt` file contains all the necessary dependencies. This README provides a comprehensive guide for users to understand, install, and use your Multiple Linear Regression project.
+Replace `<repository_URL>` and `<repository_name>` with your actual repository URL and name. Also, ensure that the `requirements.txt` file contains all the necessary dependencies.
