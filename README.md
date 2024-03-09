@@ -1,5 +1,3 @@
-Certainly! Here's a concise README.md file that covers all the necessary aspects for your Simple Linear Regression code:
-
 ```markdown
 # Simple Linear Regression Model
 
