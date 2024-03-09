@@ -36,4 +36,4 @@ The script generates visualizations representing the relationship between years 
 
 ```
 
-Replace `<repository_URL>` and `<repository_name>` with your actual repository URL and name. Also, ensure that the `requirements.txt` file contains all the necessary dependencies. This README provides a comprehensive guide for users to understand, install, and use your Simple Linear Regression code.
+Replace `<repository_URL>` and `<repository_name>` with your actual repository URL and name. Also, ensure that the `requirements.txt` file contains all the necessary dependencies.
