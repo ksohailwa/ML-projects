@@ -34,9 +34,6 @@ The script generates visualizations representing the relationship between years 
 - `simple_linear_regression.py`: Main Python script implementing the Simple Linear Regression model.
 - `Salary_Data.csv`: Dataset containing years of experience and corresponding salaries.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 Replace `<repository_URL>` and `<repository_name>` with your actual repository URL and name. Also, ensure that the `requirements.txt` file contains all the necessary dependencies. This README provides a comprehensive guide for users to understand, install, and use your Simple Linear Regression code.
